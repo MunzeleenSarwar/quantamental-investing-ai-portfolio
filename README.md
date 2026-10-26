@@ -1,7 +1,7 @@
-# Quantamental Investing and AI: TSX Portfolio Strategies
+# Quantamental Investing and AI (Coursework): TSX Portfolio Strategies
 
 Quantitative portfolio project on a 10-stock TSX universe, with one shared
-backtest for every strategy.
+backtest for every strategy for the course Quantamental Investing and AI.
 
 ## Universe
 
